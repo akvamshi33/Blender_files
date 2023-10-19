@@ -1,0 +1,1604 @@
+[2023-08-27 23:12:28,440] log.py->message():118 -- MESSAGE -- Initialized logging
+[2023-08-27 23:12:28,534] log.py->debug():97 -- DEBUG -- VERSION: 1.2.0 final
+[2023-08-27 23:12:28,534] log.py->debug():97 -- DEBUG -- SHORT VERSION: final
+[2023-08-27 23:12:28,534] log.py->debug():97 -- DEBUG -- LONG VERSION: 1.2.0 final (HEAD:c28443c2)
+[2023-08-27 23:12:28,534] log.py->debug():97 -- DEBUG -- BASEMESH VERSION: hm08
+[2023-08-27 23:12:28,534] log.py->debug():97 -- DEBUG -- IS BUILT (FROZEN): No
+[2023-08-27 23:12:28,534] log.py->debug():97 -- DEBUG -- IS RELEASE VERSION: Yes
+[2023-08-27 23:12:28,534] log.py->debug():97 -- DEBUG -- DEFAULT ENCODING: utf-8
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- FILESYSTEM ENCODING: utf-8
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- STDOUT ENCODING: cp1252
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- LOCALE PREFERRED ENCODING: cp1252
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- WORKING DIRECTORY: C:\Users\avams\AppData\Local\makehuman-community\makehuman
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- HOME LOCATION: C:/Users/avams/OneDrive/Documents
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- PYTHON PATH: ./;./lib;./apps;./shared;./apps/gui;./core;C:\Users\avams\AppData\Local\makehuman-community\Python\python37.zip;C:\Users\avams\AppData\Local\makehuman-community\Python;C:\Users\avams\AppData\Local\makehuman-community\pkgs
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- DLL PATH: C:\Users\avams\AppData\Local\makehuman-community\pkgs\PyQt5\Qt\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\avams\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\cmd\git.exe;C:\Users\avams\AppData\Roaming\npm;C:\Users\avams\AppData\Local\Programs\Microsoft VS Code\bin
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- SYS.VERSION: 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)]
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- SYS.PLATFORM: win32
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- SYS.EXECUTABLE: C:\Users\avams\AppData\Local\makehuman-community\Python\pythonw.exe
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- PLATFORM.MACHINE: AMD64
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- PLATFORM.PROCESSOR: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- PLATFORM.UNAME.RELEASE: 10
+[2023-08-27 23:12:28,550] log.py->debug():97 -- DEBUG -- PLATFORM.WIN32_VER: 10 10.0.22621 SP0 
+[2023-08-27 23:12:31,019] log.py->debug():97 -- DEBUG -- NUMPY.VERSION: 1.18.1
+[2023-08-27 23:12:31,222] acceleratesupport.py-><module>():17 -- MESSAGE -- No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2023-08-27 23:12:34,738] log.py->debug():97 -- DEBUG -- QT.VERSION: 5.12.7
+[2023-08-27 23:12:34,801] log.py->debug():97 -- DEBUG -- QT.JPG_SUPPORT: supported
+[2023-08-27 23:12:34,801] log.py->debug():97 -- DEBUG -- QT.SVG_SUPPORT: supported
+[2023-08-27 23:12:34,801] log.py->debug():97 -- DEBUG -- QT.PLUGIN_PATH: C:/Users/avams/AppData/Local/makehuman-community/pkgs/PyQt5/Qt/plugins;C:/Users/avams/AppData/Local/makehuman-community/Python
+[2023-08-27 23:12:34,801] log.py->debug():97 -- DEBUG -- QT.PLUGIN_PATH_ENV: 
+[2023-08-27 23:12:34,801] log.py->debug():97 -- DEBUG -- QT.CONF: NOT PRESENT
+[2023-08-27 23:12:35,817] log.py->debug():97 -- DEBUG -- PYOPENGL.VERSION: 3.1.0
+[2023-08-27 23:12:35,817] log.py->debug():97 -- DEBUG -- NOSHADERS: not set
+[2023-08-27 23:12:35,817] log.py->debug():97 -- DEBUG -- NOSAMPLEBUFFERS: not set
+[2023-08-27 23:12:35,832] log.py->debug():97 -- DEBUG -- GL.VENDOR: Intel
+[2023-08-27 23:12:35,832] log.py->debug():97 -- DEBUG -- GL.RENDERER: Intel(R) UHD Graphics
+[2023-08-27 23:12:35,832] log.py->debug():97 -- DEBUG -- GL.VERSION: 4.6.0 - Build 30.0.101.2079
+[2023-08-27 23:12:35,832] log.py->debug():97 -- DEBUG -- 4.60 - Build 30.0.101.2079
+[2023-08-27 23:12:35,832] log.py->debug():97 -- DEBUG -- GLSL.VERSION: 4.60 - Build 30.0.101.2079
+[2023-08-27 23:12:35,848] log.py->debug():97 -- DEBUG -- GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+[2023-08-27 23:12:35,848] log.py->debug():97 -- DEBUG -- Creating new texture for image data/textures/texture_notfound.png.
+[2023-08-27 23:12:35,879] log.py->debug():97 -- DEBUG -- GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled
+[2023-08-27 23:12:35,926] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:12:36,255] log.py->debug():97 -- DEBUG -- Setting language to english
+[2023-08-27 23:12:36,255] log.py->debug():97 -- DEBUG -- Setting language to english
+[2023-08-27 23:12:36,270] log.py->message():118 -- MESSAGE -- Initializing default theme first.
+[2023-08-27 23:12:36,286] log.py->message():118 -- MESSAGE -- Theme default version 1.2.0
+[2023-08-27 23:12:36,286] log.py->debug():97 -- DEBUG -- Loaded theme data/themes/default.mht
+[2023-08-27 23:12:36,286] log.py->debug():97 -- DEBUG -- Using Qt system style windowsvista
+[2023-08-27 23:12:37,212] log.py->message():118 -- MESSAGE -- Loading human
+[2023-08-27 23:12:37,212] log.py->debug():97 -- DEBUG -- Loading binary mesh data/3dobjs/base.npz.
+[2023-08-27 23:12:37,241] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:12:37,288] log.py->debug():97 -- DEBUG -- Loading material from file data/skins/default.mhmat
+[2023-08-27 23:12:37,397] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:12:37,397] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:12:37,397] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:12:37,397] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:12:37,507] log.py->message():118 -- MESSAGE -- Loaded vertex weights MakeHuman weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/rigs/default_weights.mhw
+[2023-08-27 23:12:37,710] log.py->message():118 -- MESSAGE -- Loading scene
+[2023-08-27 23:12:37,726] log.py->debug():97 -- DEBUG -- Loading scene file: data/scenes/default.mhscene
+[2023-08-27 23:12:37,726] log.py->message():118 -- MESSAGE -- Loading main GUI
+[2023-08-27 23:12:37,741] log.py->debug():97 -- DEBUG -- Assigning setting loaddir value C:/Users/avams/OneDrive/Documents/makehuman/v1py3/models that was loaded before the setting was declared.
+[2023-08-27 23:12:37,741] log.py->debug():97 -- DEBUG -- Assigning setting savedir value C:/Users/avams/OneDrive/Documents/makehuman/v1py3/models that was loaded before the setting was declared.
+[2023-08-27 23:12:37,757] log.py->debug():97 -- DEBUG -- Assigning setting exportdir value C:/Users/avams/OneDrive/Documents/makehuman/v1py3/model that was loaded before the setting was declared.
+[2023-08-27 23:12:37,757] log.py->message():118 -- MESSAGE -- Loading plugins
+[2023-08-27 23:12:37,773] log.py->message():118 -- MESSAGE -- Importing plugin 0_modeling_0_modifiers
+[2023-08-27 23:12:37,819] log.py->message():118 -- MESSAGE -- Imported plugin 0_modeling_0_modifiers
+[2023-08-27 23:12:37,835] log.py->message():118 -- MESSAGE -- Loading plugin 0_modeling_0_modifiers
+[2023-08-27 23:12:37,835] log.py->debug():97 -- DEBUG -- Loading modifiers from data/modifiers/modeling_modifiers.json
+[2023-08-27 23:12:37,851] log.py->debug():97 -- DEBUG -- Attempting to load targets from NPZ file.
+[2023-08-27 23:12:38,041] log.py->debug():97 -- DEBUG -- 1258 targets loaded from NPZ file succesfully.
+[2023-08-27 23:12:38,276] log.py->message():118 -- MESSAGE -- Loaded 249 modifiers from file data/modifiers/modeling_modifiers.json
+[2023-08-27 23:12:38,292] log.py->message():118 -- MESSAGE -- Loaded 249 modifier descriptions from file data/modifiers/modeling_modifiers_desc.json
+[2023-08-27 23:12:38,644] log.py->message():118 -- MESSAGE -- Loaded plugin 0_modeling_0_modifiers
+[2023-08-27 23:12:38,644] log.py->message():118 -- MESSAGE -- Importing plugin 0_modeling_8_random
+[2023-08-27 23:12:38,660] log.py->message():118 -- MESSAGE -- Imported plugin 0_modeling_8_random
+[2023-08-27 23:12:38,660] log.py->message():118 -- MESSAGE -- Loading plugin 0_modeling_8_random
+[2023-08-27 23:12:38,675] log.py->message():118 -- MESSAGE -- Loaded plugin 0_modeling_8_random
+[2023-08-27 23:12:38,675] log.py->message():118 -- MESSAGE -- Importing plugin 0_modeling_9_custom_targets
+[2023-08-27 23:12:38,675] log.py->message():118 -- MESSAGE -- Imported plugin 0_modeling_9_custom_targets
+[2023-08-27 23:12:38,675] log.py->message():118 -- MESSAGE -- Loading plugin 0_modeling_9_custom_targets
+[2023-08-27 23:12:38,691] log.py->message():118 -- MESSAGE -- Loaded plugin 0_modeling_9_custom_targets
+[2023-08-27 23:12:38,691] log.py->message():118 -- MESSAGE -- Importing plugin 0_modeling_a_measurement
+[2023-08-27 23:12:38,709] log.py->message():118 -- MESSAGE -- Imported plugin 0_modeling_a_measurement
+[2023-08-27 23:12:38,709] log.py->message():118 -- MESSAGE -- Loading plugin 0_modeling_a_measurement
+[2023-08-27 23:12:38,709] log.py->debug():97 -- DEBUG -- Loading modifiers from data/modifiers/measurement_modifiers.json
+[2023-08-27 23:12:38,724] log.py->message():118 -- MESSAGE -- Loaded 20 modifiers from file data/modifiers/measurement_modifiers.json
+[2023-08-27 23:12:38,724] log.py->message():118 -- MESSAGE -- Loaded 20 modifier descriptions from file data/modifiers/measurement_modifiers_desc.json
+[2023-08-27 23:12:38,756] log.py->message():118 -- MESSAGE -- Loaded plugin 0_modeling_a_measurement
+[2023-08-27 23:12:38,756] log.py->message():118 -- MESSAGE -- Importing plugin 0_modeling_background
+[2023-08-27 23:12:38,771] log.py->message():118 -- MESSAGE -- Imported plugin 0_modeling_background
+[2023-08-27 23:12:38,771] log.py->message():118 -- MESSAGE -- Loading plugin 0_modeling_background
+[2023-08-27 23:12:38,787] log.py->message():118 -- MESSAGE -- Loaded plugin 0_modeling_background
+[2023-08-27 23:12:38,803] log.py->message():118 -- MESSAGE -- Importing plugin 1_convert_model_tags
+[2023-08-27 23:12:38,803] log.py->message():118 -- MESSAGE -- Imported plugin 1_convert_model_tags
+[2023-08-27 23:12:38,803] log.py->message():118 -- MESSAGE -- Loading plugin 1_convert_model_tags
+[2023-08-27 23:12:38,818] log.py->message():118 -- MESSAGE -- Loaded plugin 1_convert_model_tags
+[2023-08-27 23:12:38,818] log.py->message():118 -- MESSAGE -- Importing plugin 1_mhapi
+[2023-08-27 23:12:38,834] log.py->message():118 -- MESSAGE -- Imported plugin 1_mhapi
+[2023-08-27 23:12:38,834] log.py->message():118 -- MESSAGE -- Loading plugin 1_mhapi
+[2023-08-27 23:12:38,959] log.py->message():118 -- MESSAGE -- Loaded plugin 1_mhapi
+[2023-08-27 23:12:38,974] log.py->message():118 -- MESSAGE -- Importing plugin 2_foot_posing
+[2023-08-27 23:12:38,974] log.py->message():118 -- MESSAGE -- Imported plugin 2_foot_posing
+[2023-08-27 23:12:38,974] log.py->message():118 -- MESSAGE -- Loading plugin 2_foot_posing
+[2023-08-27 23:12:38,974] log.py->message():118 -- MESSAGE -- Loaded plugin 2_foot_posing
+[2023-08-27 23:12:38,990] log.py->message():118 -- MESSAGE -- Importing plugin 2_posing_expression
+[2023-08-27 23:12:38,990] log.py->message():118 -- MESSAGE -- Imported plugin 2_posing_expression
+[2023-08-27 23:12:38,990] log.py->message():118 -- MESSAGE -- Loading plugin 2_posing_expression
+[2023-08-27 23:12:39,006] log.py->message():118 -- MESSAGE -- Loaded plugin 2_posing_expression
+[2023-08-27 23:12:39,006] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_clothes_chooser
+[2023-08-27 23:12:39,021] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_clothes_chooser
+[2023-08-27 23:12:39,021] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_clothes_chooser
+[2023-08-27 23:12:39,021] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_clothes_chooser
+[2023-08-27 23:12:39,021] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_eye_chooser
+[2023-08-27 23:12:39,037] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_eye_chooser
+[2023-08-27 23:12:39,037] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_eye_chooser
+[2023-08-27 23:12:39,037] log.py->debug():97 -- DEBUG -- According to mh.getSysDataPath here's high poly eyes data/eyes/high-poly/high-poly.mhclo
+[2023-08-27 23:12:39,052] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+[2023-08-27 23:12:39,052] log.py->debug():97 -- DEBUG -- Loading binary proxy data/eyes/high-poly/high-poly.mhpxy.
+[2023-08-27 23:12:39,052] log.py->debug():97 -- DEBUG -- Loading proxy file: data/eyes/high-poly/high-poly.mhpxy.
+[2023-08-27 23:12:39,068] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/eyes/materials/brown.mhmat
+[2023-08-27 23:12:39,099] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:12:39,099] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:12:39,099] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:12:39,099] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:12:39,099] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/eyes/high-poly/high-poly.npz.
+[2023-08-27 23:12:39,099] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 4
+[2023-08-27 23:12:39,115] log.py->debug():97 -- DEBUG -- remapping weights for proxy HighPolyEyes
+[2023-08-27 23:12:39,131] log.py->debug():97 -- DEBUG -- remapping weights for HighPolyEyes took 0.01998 seconds
+[2023-08-27 23:12:39,162] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_eye_chooser
+[2023-08-27 23:12:39,162] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_eyebrows
+[2023-08-27 23:12:39,162] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_eyebrows
+[2023-08-27 23:12:39,162] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_eyebrows
+[2023-08-27 23:12:39,177] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_eyebrows
+[2023-08-27 23:12:39,177] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_eyelashes
+[2023-08-27 23:12:39,177] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_eyelashes
+[2023-08-27 23:12:39,177] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_eyelashes
+[2023-08-27 23:12:39,193] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_eyelashes
+[2023-08-27 23:12:39,193] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_material_chooser
+[2023-08-27 23:12:39,209] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_material_chooser
+[2023-08-27 23:12:39,209] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_material_chooser
+[2023-08-27 23:12:39,209] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_material_chooser
+[2023-08-27 23:12:39,209] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_polygon_hair_chooser
+[2023-08-27 23:12:39,224] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_polygon_hair_chooser
+[2023-08-27 23:12:39,224] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_polygon_hair_chooser
+[2023-08-27 23:12:39,224] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_polygon_hair_chooser
+[2023-08-27 23:12:39,224] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_pose
+[2023-08-27 23:12:39,240] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_pose
+[2023-08-27 23:12:39,240] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_pose
+[2023-08-27 23:12:39,240] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_pose
+[2023-08-27 23:12:39,256] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_proxy_chooser
+[2023-08-27 23:12:39,256] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_proxy_chooser
+[2023-08-27 23:12:39,256] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_proxy_chooser
+[2023-08-27 23:12:39,271] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_proxy_chooser
+[2023-08-27 23:12:39,271] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_skeleton
+[2023-08-27 23:12:39,303] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_skeleton
+[2023-08-27 23:12:39,303] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_skeleton
+[2023-08-27 23:12:39,303] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_skeleton
+[2023-08-27 23:12:39,303] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_teeth
+[2023-08-27 23:12:39,318] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_teeth
+[2023-08-27 23:12:39,318] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_teeth
+[2023-08-27 23:12:39,318] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_teeth
+[2023-08-27 23:12:39,318] log.py->message():118 -- MESSAGE -- Importing plugin 3_libraries_tongue
+[2023-08-27 23:12:39,334] log.py->message():118 -- MESSAGE -- Imported plugin 3_libraries_tongue
+[2023-08-27 23:12:39,334] log.py->message():118 -- MESSAGE -- Loading plugin 3_libraries_tongue
+[2023-08-27 23:12:39,334] log.py->message():118 -- MESSAGE -- Loaded plugin 3_libraries_tongue
+[2023-08-27 23:12:39,334] log.py->message():118 -- MESSAGE -- Importing plugin 4_rendering_9_viewer
+[2023-08-27 23:12:39,349] log.py->message():118 -- MESSAGE -- Imported plugin 4_rendering_9_viewer
+[2023-08-27 23:12:39,349] log.py->message():118 -- MESSAGE -- Loading plugin 4_rendering_9_viewer
+[2023-08-27 23:12:39,349] log.py->message():118 -- MESSAGE -- Loaded plugin 4_rendering_9_viewer
+[2023-08-27 23:12:39,365] log.py->message():118 -- MESSAGE -- Importing plugin 4_rendering_opengl
+[2023-08-27 23:12:39,381] log.py->message():118 -- MESSAGE -- Imported plugin 4_rendering_opengl
+[2023-08-27 23:12:39,381] log.py->message():118 -- MESSAGE -- Loading plugin 4_rendering_opengl
+[2023-08-27 23:12:39,381] log.py->debug():97 -- DEBUG -- Assigning setting rendering_width value 800 that was loaded before the setting was declared.
+[2023-08-27 23:12:39,381] log.py->debug():97 -- DEBUG -- Assigning setting rendering_height value 600 that was loaded before the setting was declared.
+[2023-08-27 23:12:39,381] log.py->debug():97 -- DEBUG -- Assigning setting GL_RENDERER_SSS value False that was loaded before the setting was declared.
+[2023-08-27 23:12:39,381] log.py->debug():97 -- DEBUG -- Assigning setting GL_RENDERER_AA value True that was loaded before the setting was declared.
+[2023-08-27 23:12:39,381] log.py->message():118 -- MESSAGE -- Loaded plugin 4_rendering_opengl
+[2023-08-27 23:12:39,381] log.py->message():118 -- MESSAGE -- Importing plugin 4_rendering_scene
+[2023-08-27 23:12:39,396] log.py->message():118 -- MESSAGE -- Imported plugin 4_rendering_scene
+[2023-08-27 23:12:39,396] log.py->message():118 -- MESSAGE -- Loading plugin 4_rendering_scene
+[2023-08-27 23:12:39,396] mhmain.py->addSetting():353 -- NOTICE -- Setting rendering_width is already declared. Adding it again has no effect.
+[2023-08-27 23:12:39,396] mhmain.py->addSetting():353 -- NOTICE -- Setting rendering_height is already declared. Adding it again has no effect.
+[2023-08-27 23:12:39,396] log.py->message():118 -- MESSAGE -- Loaded plugin 4_rendering_scene
+[2023-08-27 23:12:39,412] log.py->message():118 -- MESSAGE -- Importing plugin 5_settings_0_settings
+[2023-08-27 23:12:39,412] log.py->message():118 -- MESSAGE -- Imported plugin 5_settings_0_settings
+[2023-08-27 23:12:39,412] log.py->message():118 -- MESSAGE -- Loading plugin 5_settings_0_settings
+[2023-08-27 23:12:39,537] log.py->debug():97 -- DEBUG -- Setting language to english
+[2023-08-27 23:12:39,537] log.py->message():118 -- MESSAGE -- Theme makehuman version 1.2.0
+[2023-08-27 23:12:39,537] log.py->debug():97 -- DEBUG -- Loaded theme data/themes/makehuman.mht
+[2023-08-27 23:12:40,213] log.py->debug():97 -- DEBUG -- Loaded Qt style data/themes/makehuman.qss
+[2023-08-27 23:12:40,385] log.py->message():118 -- MESSAGE -- Loaded plugin 5_settings_0_settings
+[2023-08-27 23:12:40,385] log.py->message():118 -- MESSAGE -- Importing plugin 5_settings_mouse
+[2023-08-27 23:12:40,401] log.py->message():118 -- MESSAGE -- Imported plugin 5_settings_mouse
+[2023-08-27 23:12:40,401] log.py->message():118 -- MESSAGE -- Loading plugin 5_settings_mouse
+[2023-08-27 23:12:40,401] log.py->message():118 -- MESSAGE -- Loaded plugin 5_settings_mouse
+[2023-08-27 23:12:40,401] log.py->message():118 -- MESSAGE -- Importing plugin 5_settings_shortcuts
+[2023-08-27 23:12:40,417] log.py->message():118 -- MESSAGE -- Imported plugin 5_settings_shortcuts
+[2023-08-27 23:12:40,417] log.py->message():118 -- MESSAGE -- Loading plugin 5_settings_shortcuts
+[2023-08-27 23:12:40,417] log.py->message():118 -- MESSAGE -- Loaded plugin 5_settings_shortcuts
+[2023-08-27 23:12:40,432] log.py->message():118 -- MESSAGE -- Importing plugin 5_settings_userplugins
+[2023-08-27 23:12:40,432] log.py->message():118 -- MESSAGE -- Imported plugin 5_settings_userplugins
+[2023-08-27 23:12:40,432] log.py->message():118 -- MESSAGE -- Loading plugin 5_settings_userplugins
+[2023-08-27 23:12:40,448] log.py->message():118 -- MESSAGE -- Loaded plugin 5_settings_userplugins
+[2023-08-27 23:12:40,463] log.py->message():118 -- MESSAGE -- Importing plugin 6_help
+[2023-08-27 23:12:40,463] log.py->message():118 -- MESSAGE -- Imported plugin 6_help
+[2023-08-27 23:12:40,479] log.py->message():118 -- MESSAGE -- Loading plugin 6_help
+[2023-08-27 23:12:40,479] log.py->message():118 -- MESSAGE -- Loaded plugin 6_help
+[2023-08-27 23:12:40,479] log.py->message():118 -- MESSAGE -- Importing plugin 7_expression_mixer
+[2023-08-27 23:12:40,495] log.py->message():118 -- MESSAGE -- Imported plugin 7_expression_mixer
+[2023-08-27 23:12:40,495] log.py->message():118 -- MESSAGE -- Loading plugin 7_expression_mixer
+[2023-08-27 23:12:40,495] log.py->message():118 -- MESSAGE -- Loaded plugin 7_expression_mixer
+[2023-08-27 23:12:40,510] log.py->message():118 -- MESSAGE -- Importing plugin 7_logging
+[2023-08-27 23:12:40,510] log.py->message():118 -- MESSAGE -- Imported plugin 7_logging
+[2023-08-27 23:12:40,510] log.py->message():118 -- MESSAGE -- Loading plugin 7_logging
+[2023-08-27 23:12:40,526] log.py->message():118 -- MESSAGE -- Loaded plugin 7_logging
+[2023-08-27 23:12:40,526] log.py->message():118 -- MESSAGE -- Importing plugin 8_asset_downloader
+[2023-08-27 23:12:40,568] log.py->message():118 -- MESSAGE -- Imported plugin 8_asset_downloader
+[2023-08-27 23:12:40,573] log.py->message():118 -- MESSAGE -- Loading plugin 8_asset_downloader
+[2023-08-27 23:12:40,698] log.py->message():118 -- MESSAGE -- Loaded plugin 8_asset_downloader
+[2023-08-27 23:12:40,698] log.py->message():118 -- MESSAGE -- Importing plugin 8_server_socket
+[2023-08-27 23:12:40,745] log.py->message():118 -- MESSAGE -- Imported plugin 8_server_socket
+[2023-08-27 23:12:40,745] log.py->message():118 -- MESSAGE -- Loading plugin 8_server_socket
+[2023-08-27 23:12:40,761] log.py->message():118 -- MESSAGE -- Loaded plugin 8_server_socket
+[2023-08-27 23:12:40,761] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_bvh
+[2023-08-27 23:12:40,776] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_bvh
+[2023-08-27 23:12:40,776] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_bvh
+[2023-08-27 23:12:40,776] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_bvh
+[2023-08-27 23:12:40,776] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_collada
+[2023-08-27 23:12:40,792] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_collada
+[2023-08-27 23:12:40,792] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_collada
+[2023-08-27 23:12:40,792] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_collada
+[2023-08-27 23:12:40,792] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_fbx
+[2023-08-27 23:12:40,807] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_fbx
+[2023-08-27 23:12:40,807] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_fbx
+[2023-08-27 23:12:40,807] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_fbx
+[2023-08-27 23:12:40,807] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_light
+[2023-08-27 23:12:40,823] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_light
+[2023-08-27 23:12:40,823] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_light
+[2023-08-27 23:12:40,823] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_light
+[2023-08-27 23:12:40,823] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_mhx2
+[2023-08-27 23:12:40,839] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_mhx2
+[2023-08-27 23:12:40,839] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_mhx2
+[2023-08-27 23:12:40,839] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_mhx2
+[2023-08-27 23:12:40,854] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_obj
+[2023-08-27 23:12:40,854] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_obj
+[2023-08-27 23:12:40,854] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_obj
+[2023-08-27 23:12:40,854] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_obj
+[2023-08-27 23:12:40,870] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_ogre
+[2023-08-27 23:12:40,886] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_ogre
+[2023-08-27 23:12:40,886] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_ogre
+[2023-08-27 23:12:40,886] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_ogre
+[2023-08-27 23:12:40,886] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_stl
+[2023-08-27 23:12:40,901] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_stl
+[2023-08-27 23:12:40,901] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_stl
+[2023-08-27 23:12:40,901] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_stl
+[2023-08-27 23:12:40,901] log.py->message():118 -- MESSAGE -- Importing plugin 9_export_uvmap
+[2023-08-27 23:12:40,917] log.py->message():118 -- MESSAGE -- Imported plugin 9_export_uvmap
+[2023-08-27 23:12:40,917] log.py->message():118 -- MESSAGE -- Loading plugin 9_export_uvmap
+[2023-08-27 23:12:40,917] log.py->message():118 -- MESSAGE -- Loaded plugin 9_export_uvmap
+[2023-08-27 23:12:40,917] log.py->message():118 -- MESSAGE -- Importing plugin 9_massproduce
+[2023-08-27 23:12:40,964] log.py->message():118 -- MESSAGE -- Imported plugin 9_massproduce
+[2023-08-27 23:12:40,964] log.py->message():118 -- MESSAGE -- Loading plugin 9_massproduce
+[2023-08-27 23:12:41,301] log.py->message():118 -- MESSAGE -- Loaded plugin 9_massproduce
+[2023-08-27 23:12:41,316] log.py->message():118 -- MESSAGE -- Loading GUI
+[2023-08-27 23:12:41,332] log.py->debug():97 -- DEBUG -- showing category Modelling
+[2023-08-27 23:12:41,332] log.py->debug():97 -- DEBUG -- showing task Macro modelling
+[2023-08-27 23:12:41,443] log.py->message():118 -- MESSAGE -- Loading theme
+[2023-08-27 23:12:41,443] log.py->message():118 -- MESSAGE -- Theme makehuman version 1.2.0
+[2023-08-27 23:12:41,443] log.py->debug():97 -- DEBUG -- Loaded theme data/themes/makehuman.mht
+[2023-08-27 23:12:45,327] log.py->debug():97 -- DEBUG -- Loaded Qt style data/themes/makehuman.qss
+[2023-08-27 23:12:45,359] log.py->message():118 -- MESSAGE -- Applying targets
+[2023-08-27 23:12:45,437] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:12:45,499] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:12:45,530] log.py->message():118 -- MESSAGE -- Loading macro targets
+[2023-08-27 23:12:46,828] log.py->message():118 -- MESSAGE -- Loading done
+[2023-08-27 23:12:46,828] log.py->message():118 -- MESSAGE -- 
+[2023-08-27 23:12:47,203] log.py->debug():97 -- DEBUG -- Creating new texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:12:47,203] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:12:47,203] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/eyes/materials/brown_eye.png.
+[2023-08-27 23:12:47,250] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:12:47,250] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/litspheres/skinmat_eye.png.
+[2023-08-27 23:12:47,250] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:12:51,900] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:12:51,963] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:12:51,994] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:12:54,328] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:12:54,390] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:12:54,422] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:13:02,735] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:13:02,782] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:13:02,814] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:13:08,747] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:13:08,795] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:13:08,826] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:14:18,345] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:14:18,408] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:14:18,439] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:14:21,193] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:14:21,240] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:14:21,287] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:14:24,147] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:14:24,194] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:14:24,225] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:14:28,732] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:14:28,779] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:14:28,827] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:14:33,800] log.py->debug():97 -- DEBUG -- hiding category Modelling
+[2023-08-27 23:14:33,800] log.py->debug():97 -- DEBUG -- showing category Geometries
+[2023-08-27 23:14:33,800] log.py->debug():97 -- DEBUG -- hiding task Macro modelling
+[2023-08-27 23:14:33,800] log.py->debug():97 -- DEBUG -- showing task Clothes
+[2023-08-27 23:14:35,705] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\female_casualsuit01\female_casualsuit01.mhpxy" from clothes library.
+[2023-08-27 23:14:35,705] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\female_casualsuit01\female_casualsuit01.mhpxy.
+[2023-08-27 23:14:35,720] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\female_casualsuit01\female_casualsuit01.mhpxy.
+[2023-08-27 23:14:35,736] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhmat
+[2023-08-27 23:14:35,767] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:14:35,767] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:14:35,767] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,767] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,783] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:14:35,783] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:14:35,783] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,783] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,799] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:14:35,799] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:14:35,799] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,799] log.py->debug():97 -- DEBUG -- VectorUniform(normalmapIntensity) = [1.]
+[2023-08-27 23:14:35,799] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,799] log.py->debug():97 -- DEBUG -- VectorUniform(normalmapIntensity) = [1.]
+[2023-08-27 23:14:35,799] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit01/female_casualsuit01.npz.
+[2023-08-27 23:14:35,814] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:14:35,814] log.py->debug():97 -- DEBUG -- remapping weights for proxy female_casualsuit01
+[2023-08-27 23:14:35,908] log.py->debug():97 -- DEBUG -- remapping weights for female_casualsuit01 took 0.07123 seconds
+[2023-08-27 23:14:35,923] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:14:35,923] log.py->debug():97 -- DEBUG -- 0 faces masked for female_casualsuit01.obj
+[2023-08-27 23:14:35,923] log.py->debug():97 -- DEBUG -- Loaded 5372 deleted verts (5430 faces) from female_casualsuit01 proxy.
+[2023-08-27 23:14:35,923] log.py->debug():97 -- DEBUG -- 5216 faces masked for base.obj
+[2023-08-27 23:14:35,939] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:14:35,955] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:14:35,955] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:14:35,955] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,955] log.py->debug():97 -- DEBUG -- VectorUniform(normalmapIntensity) = [1.]
+[2023-08-27 23:14:35,955] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:14:35,955] log.py->debug():97 -- DEBUG -- VectorUniform(normalmapIntensity) = [1.]
+[2023-08-27 23:14:35,955] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit01/female_casualsuit01_ao.png.
+[2023-08-27 23:14:36,111] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:14:36,111] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit01/female_casualsuit01_diffuse.png.
+[2023-08-27 23:14:36,330] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:14:36,330] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/litspheres/lit_matte.png.
+[2023-08-27 23:14:36,362] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:14:36,362] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit01/female_casualsuit01_normal.png.
+[2023-08-27 23:14:36,988] log.py->debug():97 -- DEBUG -- initTexture: 4096, 4096, False
+[2023-08-27 23:14:38,968] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\female_casualsuit02\female_casualsuit02.mhpxy" from clothes library.
+[2023-08-27 23:14:38,968] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+[2023-08-27 23:14:38,983] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+[2023-08-27 23:14:38,999] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit02/female_casualsuit02.mhmat
+[2023-08-27 23:14:38,999] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit02/female_casualsuit02.npz.
+[2023-08-27 23:14:39,014] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:14:39,030] log.py->debug():97 -- DEBUG -- remapping weights for proxy female_casualsuit02
+[2023-08-27 23:14:39,109] log.py->debug():97 -- DEBUG -- remapping weights for female_casualsuit02 took 0.06337 seconds
+[2023-08-27 23:14:39,140] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:14:39,140] log.py->debug():97 -- DEBUG -- 0 faces masked for female_casualsuit01.obj
+[2023-08-27 23:14:39,140] log.py->debug():97 -- DEBUG -- Loaded 5372 deleted verts (5430 faces) from female_casualsuit01 proxy.
+[2023-08-27 23:14:39,140] log.py->debug():97 -- DEBUG -- 2430 faces masked for female_casualsuit02.obj
+[2023-08-27 23:14:39,140] log.py->debug():97 -- DEBUG -- Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+[2023-08-27 23:14:39,140] log.py->debug():97 -- DEBUG -- 5216 faces masked for base.obj
+[2023-08-27 23:14:39,156] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:14:39,156] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit02/female_casualsuit02_ao.png.
+[2023-08-27 23:14:39,265] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:14:39,265] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit02/female_casualsuit02_diffuse.png.
+[2023-08-27 23:14:39,406] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:14:39,406] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit02/female_casualsuit02_normal.png.
+[2023-08-27 23:14:39,986] log.py->debug():97 -- DEBUG -- initTexture: 4096, 4096, False
+[2023-08-27 23:14:42,253] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:14:42,253] log.py->debug():97 -- DEBUG -- 0 faces masked for female_casualsuit02.obj
+[2023-08-27 23:14:42,253] log.py->debug():97 -- DEBUG -- Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+[2023-08-27 23:14:42,268] log.py->debug():97 -- DEBUG -- 2612 faces masked for base.obj
+[2023-08-27 23:14:42,268] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:14:44,832] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:14:44,832] log.py->debug():97 -- DEBUG -- 0 faces masked for base.obj
+[2023-08-27 23:14:44,832] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:14:51,620] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes05\shoes05.mhpxy" from clothes library.
+[2023-08-27 23:14:51,620] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes05\shoes05.mhpxy.
+[2023-08-27 23:14:51,636] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes05\shoes05.mhpxy.
+[2023-08-27 23:14:51,652] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhmat
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(diffuse) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(emissive) = [0. 0. 0.]
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(specular) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewMatrix'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].position'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].halfVector'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotDirection'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotExponent'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotCosCutoff'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].constantAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].linearAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].quadraticAttenuation'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontLightModelProduct.sceneColor'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.emission'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.ambient'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.diffuse'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.specular'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.shininess'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(diffuse) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(emissive) = [0. 0. 0.]
+[2023-08-27 23:14:51,699] log.py->debug():97 -- DEBUG -- VectorUniform(specular) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,714] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:14:51,714] log.py->debug():97 -- DEBUG -- VectorUniform(diffuse) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,714] log.py->debug():97 -- DEBUG -- VectorUniform(emissive) = [0. 0. 0.]
+[2023-08-27 23:14:51,714] log.py->debug():97 -- DEBUG -- VectorUniform(specular) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewMatrix'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].position'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].halfVector'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotDirection'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotExponent'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotCosCutoff'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].constantAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].linearAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].quadraticAttenuation'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontLightModelProduct.sceneColor'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.emission'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.ambient'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.diffuse'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.specular'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.shininess'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- VectorUniform(diffuse) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- VectorUniform(emissive) = [0. 0. 0.]
+[2023-08-27 23:14:51,730] log.py->debug():97 -- DEBUG -- VectorUniform(specular) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,746] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes05 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhw
+[2023-08-27 23:14:51,761] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.npz.
+[2023-08-27 23:14:51,777] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:14:51,808] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:14:51,808] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes05.obj
+[2023-08-27 23:14:51,808] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes05 proxy.
+[2023-08-27 23:14:51,808] log.py->debug():97 -- DEBUG -- 3074 faces masked for base.obj
+[2023-08-27 23:14:51,808] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- VectorUniform(diffuse) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- VectorUniform(emissive) = [0. 0. 0.]
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- VectorUniform(specular) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewMatrix'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].ambient'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].diffuse'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].specular'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].position'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].halfVector'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotDirection'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotExponent'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].spotCosCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].spotCosCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].spotCosCutoff'
+[2023-08-27 23:14:51,839] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].spotCosCutoff'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].spotCosCutoff'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].spotCosCutoff'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].spotCosCutoff'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].spotCosCutoff'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].constantAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].linearAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[0].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[1].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[2].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[3].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[4].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[5].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[6].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_LightSource[7].quadraticAttenuation'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontLightModelProduct.sceneColor'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.emission'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.ambient'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.diffuse'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.specular'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_FrontMaterial.shininess'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- VectorUniform(diffuse) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- VectorUniform(emissive) = [0. 0. 0.]
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- VectorUniform(specular) = [0. 0. 0. 0.]
+[2023-08-27 23:14:51,855] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05_diffuse.png.
+[2023-08-27 23:14:51,902] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:14:54,563] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes06\shoes06.mhpxy" from clothes library.
+[2023-08-27 23:14:54,563] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes06\shoes06.mhpxy.
+[2023-08-27 23:14:54,579] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes06\shoes06.mhpxy.
+[2023-08-27 23:14:54,594] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes06/shoes06.mhmat
+[2023-08-27 23:14:54,610] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes06 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes06/shoes06.mhw
+[2023-08-27 23:14:54,626] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes06/shoes06.npz.
+[2023-08-27 23:14:54,641] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:14:54,673] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:14:54,673] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes05.obj
+[2023-08-27 23:14:54,673] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes05 proxy.
+[2023-08-27 23:14:54,673] log.py->debug():97 -- DEBUG -- 1506 faces masked for shoes06.obj
+[2023-08-27 23:14:54,673] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:14:54,685] log.py->debug():97 -- DEBUG -- 3074 faces masked for base.obj
+[2023-08-27 23:14:54,689] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:14:54,692] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes06/shoes06_diffuse.png.
+[2023-08-27 23:14:54,736] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:14:55,380] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:14:55,380] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes06.obj
+[2023-08-27 23:14:55,380] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:14:55,380] log.py->debug():97 -- DEBUG -- 3074 faces masked for base.obj
+[2023-08-27 23:14:55,396] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:02,770] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\female_sportsuit01\female_sportsuit01.mhpxy" from clothes library.
+[2023-08-27 23:15:02,770] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\female_sportsuit01\female_sportsuit01.mhpxy.
+[2023-08-27 23:15:02,786] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\female_sportsuit01\female_sportsuit01.mhpxy.
+[2023-08-27 23:15:02,786] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_sportsuit01/female_sportsuit01.mhmat
+[2023-08-27 23:15:02,802] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_sportsuit01/female_sportsuit01.npz.
+[2023-08-27 23:15:02,817] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:02,833] log.py->debug():97 -- DEBUG -- remapping weights for proxy female_sportsuit01
+[2023-08-27 23:15:02,880] log.py->debug():97 -- DEBUG -- remapping weights for female_sportsuit01 took 0.04458 seconds
+[2023-08-27 23:15:02,911] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:02,911] log.py->debug():97 -- DEBUG -- 0 faces masked for female_sportsuit01.obj
+[2023-08-27 23:15:02,911] log.py->debug():97 -- DEBUG -- Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+[2023-08-27 23:15:02,911] log.py->debug():97 -- DEBUG -- 106 faces masked for shoes06.obj
+[2023-08-27 23:15:02,911] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:02,911] log.py->debug():97 -- DEBUG -- 7346 faces masked for base.obj
+[2023-08-27 23:15:02,911] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:02,927] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_sportsuit01/female_sportsuit01_ao.png.
+[2023-08-27 23:15:03,041] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:15:03,041] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_sportsuit01/female_sportsuit01_diffuse.png.
+[2023-08-27 23:15:03,167] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:15:03,167] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_sportsuit01/female_sportsuit01_normal.png.
+[2023-08-27 23:15:03,213] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:15:09,792] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\male_elegantsuit01\male_elegantsuit01.mhpxy" from clothes library.
+[2023-08-27 23:15:09,792] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\male_elegantsuit01\male_elegantsuit01.mhpxy.
+[2023-08-27 23:15:09,808] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\male_elegantsuit01\male_elegantsuit01.mhpxy.
+[2023-08-27 23:15:09,824] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/male_elegantsuit01/male_elegantsuit01.mhmat
+[2023-08-27 23:15:09,839] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/male_elegantsuit01/male_elegantsuit01.npz.
+[2023-08-27 23:15:09,839] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:09,855] log.py->debug():97 -- DEBUG -- remapping weights for proxy male_elegantsuit01
+[2023-08-27 23:15:10,044] log.py->debug():97 -- DEBUG -- remapping weights for male_elegantsuit01 took 0.12953 seconds
+[2023-08-27 23:15:10,076] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:10,080] log.py->debug():97 -- DEBUG -- 0 faces masked for female_sportsuit01.obj
+[2023-08-27 23:15:10,080] log.py->debug():97 -- DEBUG -- Loaded 4678 deleted verts (4794 faces) from female_sportsuit01 proxy.
+[2023-08-27 23:15:10,080] log.py->debug():97 -- DEBUG -- 4266 faces masked for male_elegantsuit01.obj
+[2023-08-27 23:15:10,092] log.py->debug():97 -- DEBUG -- Loaded 6410 deleted verts (6434 faces) from male_elegantsuit01 proxy.
+[2023-08-27 23:15:10,092] log.py->debug():97 -- DEBUG -- 106 faces masked for shoes06.obj
+[2023-08-27 23:15:10,092] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:10,092] log.py->debug():97 -- DEBUG -- 9464 faces masked for base.obj
+[2023-08-27 23:15:10,092] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:10,123] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:15:10,123] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:15:10,123] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:15:10,123] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:15:10,123] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/male_elegantsuit01/male_elegantsuit01_diffuse.png.
+[2023-08-27 23:15:10,326] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:15:12,094] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:12,109] log.py->debug():97 -- DEBUG -- 0 faces masked for male_elegantsuit01.obj
+[2023-08-27 23:15:12,109] log.py->debug():97 -- DEBUG -- Loaded 6410 deleted verts (6434 faces) from male_elegantsuit01 proxy.
+[2023-08-27 23:15:12,109] log.py->debug():97 -- DEBUG -- 106 faces masked for shoes06.obj
+[2023-08-27 23:15:12,109] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:12,109] log.py->debug():97 -- DEBUG -- 9282 faces masked for base.obj
+[2023-08-27 23:15:12,125] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:14,554] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:14,569] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes06.obj
+[2023-08-27 23:15:14,569] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:14,574] log.py->debug():97 -- DEBUG -- 3074 faces masked for base.obj
+[2023-08-27 23:15:14,580] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:19,587] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\female_casualsuit01\female_casualsuit01.mhpxy" from clothes library.
+[2023-08-27 23:15:19,595] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\female_casualsuit01\female_casualsuit01.mhpxy.
+[2023-08-27 23:15:19,595] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\female_casualsuit01\female_casualsuit01.mhpxy.
+[2023-08-27 23:15:19,595] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit01/female_casualsuit01.mhmat
+[2023-08-27 23:15:19,611] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit01/female_casualsuit01.npz.
+[2023-08-27 23:15:19,611] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:19,611] log.py->debug():97 -- DEBUG -- remapping weights for proxy female_casualsuit01
+[2023-08-27 23:15:19,674] log.py->debug():97 -- DEBUG -- remapping weights for female_casualsuit01 took 0.04807 seconds
+[2023-08-27 23:15:19,705] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:19,705] log.py->debug():97 -- DEBUG -- 0 faces masked for female_casualsuit01.obj
+[2023-08-27 23:15:19,705] log.py->debug():97 -- DEBUG -- Loaded 5372 deleted verts (5430 faces) from female_casualsuit01 proxy.
+[2023-08-27 23:15:19,705] log.py->debug():97 -- DEBUG -- 106 faces masked for shoes06.obj
+[2023-08-27 23:15:19,705] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:19,705] log.py->debug():97 -- DEBUG -- 8102 faces masked for base.obj
+[2023-08-27 23:15:19,721] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:21,136] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\female_casualsuit02\female_casualsuit02.mhpxy" from clothes library.
+[2023-08-27 23:15:21,136] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+[2023-08-27 23:15:21,136] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\female_casualsuit02\female_casualsuit02.mhpxy.
+[2023-08-27 23:15:21,152] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit02/female_casualsuit02.mhmat
+[2023-08-27 23:15:21,152] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_casualsuit02/female_casualsuit02.npz.
+[2023-08-27 23:15:21,152] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:21,152] log.py->debug():97 -- DEBUG -- remapping weights for proxy female_casualsuit02
+[2023-08-27 23:15:21,247] log.py->debug():97 -- DEBUG -- remapping weights for female_casualsuit02 took 0.06301 seconds
+[2023-08-27 23:15:21,262] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:21,262] log.py->debug():97 -- DEBUG -- 0 faces masked for female_casualsuit01.obj
+[2023-08-27 23:15:21,262] log.py->debug():97 -- DEBUG -- Loaded 5372 deleted verts (5430 faces) from female_casualsuit01 proxy.
+[2023-08-27 23:15:21,278] log.py->debug():97 -- DEBUG -- 2430 faces masked for female_casualsuit02.obj
+[2023-08-27 23:15:21,278] log.py->debug():97 -- DEBUG -- Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+[2023-08-27 23:15:21,278] log.py->debug():97 -- DEBUG -- 106 faces masked for shoes06.obj
+[2023-08-27 23:15:21,278] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:21,278] log.py->debug():97 -- DEBUG -- 8102 faces masked for base.obj
+[2023-08-27 23:15:21,278] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:21,895] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:21,895] log.py->debug():97 -- DEBUG -- 0 faces masked for female_casualsuit02.obj
+[2023-08-27 23:15:21,895] log.py->debug():97 -- DEBUG -- Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+[2023-08-27 23:15:21,895] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes06.obj
+[2023-08-27 23:15:21,895] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:21,895] log.py->debug():97 -- DEBUG -- 5686 faces masked for base.obj
+[2023-08-27 23:15:21,911] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:23,044] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy" from clothes library.
+[2023-08-27 23:15:23,044] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+[2023-08-27 23:15:23,075] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\female_elegantsuit01\female_elegantsuit01.mhpxy.
+[2023-08-27 23:15:23,091] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_elegantsuit01/female_elegantsuit01.mhmat
+[2023-08-27 23:15:23,106] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_elegantsuit01/female_elegantsuit01.npz.
+[2023-08-27 23:15:23,122] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:23,137] log.py->debug():97 -- DEBUG -- remapping weights for proxy female_elegantsuit01
+[2023-08-27 23:15:23,200] log.py->debug():97 -- DEBUG -- remapping weights for female_elegantsuit01 took 0.05306 seconds
+[2023-08-27 23:15:23,232] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:23,232] log.py->debug():97 -- DEBUG -- 0 faces masked for female_casualsuit02.obj
+[2023-08-27 23:15:23,232] log.py->debug():97 -- DEBUG -- Loaded 2716 deleted verts (2826 faces) from female_casualsuit02 proxy.
+[2023-08-27 23:15:23,232] log.py->debug():97 -- DEBUG -- 1039 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:23,232] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:23,232] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes06.obj
+[2023-08-27 23:15:23,232] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:23,248] log.py->debug():97 -- DEBUG -- 7197 faces masked for base.obj
+[2023-08-27 23:15:23,248] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:23,254] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_elegantsuit01/female_elegantsuit01_ao.png.
+[2023-08-27 23:15:23,420] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:15:23,420] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_elegantsuit01/female_elegantsuit01_diffuse.png.
+[2023-08-27 23:15:23,592] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:15:23,592] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/female_elegantsuit01/female_elegantsuit01_normal.png.
+[2023-08-27 23:15:23,764] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:15:23,780] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:23,792] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:23,792] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:23,794] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes06.obj
+[2023-08-27 23:15:23,795] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:23,795] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:23,795] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:27,973] log.py->debug():97 -- DEBUG -- Loading material from file data/materials/xray.mhmat
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewMatrix'
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- VectorUniform(edgefalloff) = [1.]
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- VectorUniform(intensity) = [0.7]
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- VectorUniform(ambient) = [0. 0. 0.]
+[2023-08-27 23:15:28,019] log.py->debug():97 -- DEBUG -- VectorUniform(edgefalloff) = [1.]
+[2023-08-27 23:15:28,035] log.py->debug():97 -- DEBUG -- VectorUniform(intensity) = [0.7]
+[2023-08-27 23:15:29,088] log.py->debug():97 -- DEBUG -- Loading material from file data/materials/xray.mhmat
+[2023-08-27 23:15:33,627] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:33,627] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:33,627] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:33,627] log.py->debug():97 -- DEBUG -- 4011 faces masked for base.obj
+[2023-08-27 23:15:33,642] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:44,190] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes01\shoes01.mhpxy" from clothes library.
+[2023-08-27 23:15:44,190] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes01\shoes01.mhpxy.
+[2023-08-27 23:15:44,212] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes01\shoes01.mhpxy.
+[2023-08-27 23:15:44,221] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01.mhmat
+[2023-08-27 23:15:44,268] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes01 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01.mhw
+[2023-08-27 23:15:44,268] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01.npz.
+[2023-08-27 23:15:44,284] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:44,315] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:44,315] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:44,315] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:44,315] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes01.obj
+[2023-08-27 23:15:44,315] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes01 proxy.
+[2023-08-27 23:15:44,315] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:44,331] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:44,347] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_NormalMatrix'
+[2023-08-27 23:15:44,347] log.py->debug():97 -- DEBUG -- Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+[2023-08-27 23:15:44,347] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:15:44,347] log.py->debug():97 -- DEBUG -- VectorUniform(normalmapIntensity) = [1.]
+[2023-08-27 23:15:44,347] log.py->debug():97 -- DEBUG -- VectorUniform(AdditiveShading) = [0.]
+[2023-08-27 23:15:44,347] log.py->debug():97 -- DEBUG -- VectorUniform(normalmapIntensity) = [1.]
+[2023-08-27 23:15:44,347] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01_diffuse.png.
+[2023-08-27 23:15:44,393] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:15:44,393] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/litspheres/lit_refl_sharp.png.
+[2023-08-27 23:15:44,409] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:15:44,409] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01_normal.png.
+[2023-08-27 23:15:44,471] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:15:46,722] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:46,722] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:46,722] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:46,722] log.py->debug():97 -- DEBUG -- 4011 faces masked for base.obj
+[2023-08-27 23:15:46,738] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:47,551] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes02\shoes02.mhpxy" from clothes library.
+[2023-08-27 23:15:47,551] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes02\shoes02.mhpxy.
+[2023-08-27 23:15:47,566] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes02\shoes02.mhpxy.
+[2023-08-27 23:15:47,582] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes02/shoes02.mhmat
+[2023-08-27 23:15:47,598] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes02 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes02/shoes02.mhw
+[2023-08-27 23:15:47,613] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes02/shoes02.npz.
+[2023-08-27 23:15:47,613] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:47,644] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:47,660] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:47,660] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:47,660] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes02.obj
+[2023-08-27 23:15:47,660] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes02 proxy.
+[2023-08-27 23:15:47,660] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:47,660] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:47,676] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes02/shoes02_diffuse.png.
+[2023-08-27 23:15:47,723] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:15:48,883] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:48,883] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:48,883] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:48,883] log.py->debug():97 -- DEBUG -- 4011 faces masked for base.obj
+[2023-08-27 23:15:48,898] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:49,540] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes03\shoes03.mhpxy" from clothes library.
+[2023-08-27 23:15:49,540] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes03\shoes03.mhpxy.
+[2023-08-27 23:15:49,556] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes03\shoes03.mhpxy.
+[2023-08-27 23:15:49,571] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes03/shoes03.mhmat
+[2023-08-27 23:15:49,603] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes03 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes03/shoes03.mhw
+[2023-08-27 23:15:49,618] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes03/shoes03.npz.
+[2023-08-27 23:15:49,634] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:49,681] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:49,681] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:49,681] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:49,681] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes03.obj
+[2023-08-27 23:15:49,681] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes03 proxy.
+[2023-08-27 23:15:49,696] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:49,696] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:49,696] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes03/shoes03_diffuse.png.
+[2023-08-27 23:15:49,743] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:15:50,744] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:50,744] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:50,744] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:50,744] log.py->debug():97 -- DEBUG -- 4011 faces masked for base.obj
+[2023-08-27 23:15:50,759] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:51,494] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes04\shoes04.mhpxy" from clothes library.
+[2023-08-27 23:15:51,494] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes04\shoes04.mhpxy.
+[2023-08-27 23:15:51,511] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes04\shoes04.mhpxy.
+[2023-08-27 23:15:51,526] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes04/shoes04.mhmat
+[2023-08-27 23:15:51,557] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes04 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes04/shoes04.mhw
+[2023-08-27 23:15:51,573] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes04/shoes04.npz.
+[2023-08-27 23:15:51,573] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:51,604] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:51,604] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:51,604] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:51,620] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes04.obj
+[2023-08-27 23:15:51,620] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes04 proxy.
+[2023-08-27 23:15:51,620] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:51,620] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:51,620] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes04/shoes04_diffuse.png.
+[2023-08-27 23:15:51,667] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:15:51,667] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes04/shoes04_normal.png.
+[2023-08-27 23:15:51,698] log.py->debug():97 -- DEBUG -- initTexture: 1024, 1024, False
+[2023-08-27 23:15:53,432] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:53,448] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:53,448] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:53,448] log.py->debug():97 -- DEBUG -- 4011 faces masked for base.obj
+[2023-08-27 23:15:53,448] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:54,433] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes05\shoes05.mhpxy" from clothes library.
+[2023-08-27 23:15:54,448] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes05\shoes05.mhpxy.
+[2023-08-27 23:15:54,448] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes05\shoes05.mhpxy.
+[2023-08-27 23:15:54,448] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhmat
+[2023-08-27 23:15:54,464] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes05 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhw
+[2023-08-27 23:15:54,464] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.npz.
+[2023-08-27 23:15:54,464] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:54,495] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:54,511] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:54,511] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:54,511] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes05.obj
+[2023-08-27 23:15:54,511] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes05 proxy.
+[2023-08-27 23:15:54,511] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:54,511] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:55,652] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:55,652] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:55,652] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:55,652] log.py->debug():97 -- DEBUG -- 4011 faces masked for base.obj
+[2023-08-27 23:15:55,652] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:56,371] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes06\shoes06.mhpxy" from clothes library.
+[2023-08-27 23:15:56,371] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes06\shoes06.mhpxy.
+[2023-08-27 23:15:56,371] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes06\shoes06.mhpxy.
+[2023-08-27 23:15:56,371] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes06/shoes06.mhmat
+[2023-08-27 23:15:56,387] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes06 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes06/shoes06.mhw
+[2023-08-27 23:15:56,403] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes06/shoes06.npz.
+[2023-08-27 23:15:56,403] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:56,434] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:56,434] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:56,434] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:56,434] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes06.obj
+[2023-08-27 23:15:56,434] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes06 proxy.
+[2023-08-27 23:15:56,434] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:56,450] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:58,742] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:58,758] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:58,758] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:58,758] log.py->debug():97 -- DEBUG -- 4011 faces masked for base.obj
+[2023-08-27 23:15:58,758] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:15:59,552] log.py->message():118 -- MESSAGE -- Selecting proxy file "data/clothes\shoes01\shoes01.mhpxy" from clothes library.
+[2023-08-27 23:15:59,552] log.py->debug():97 -- DEBUG -- Loading binary proxy data/clothes\shoes01\shoes01.mhpxy.
+[2023-08-27 23:15:59,552] log.py->debug():97 -- DEBUG -- Loading proxy file: data/clothes\shoes01\shoes01.mhpxy.
+[2023-08-27 23:15:59,559] log.py->debug():97 -- DEBUG -- Loading material from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01.mhmat
+[2023-08-27 23:15:59,559] log.py->message():118 -- MESSAGE -- Loaded vertex weights Shoes01 weights from file C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01.mhw
+[2023-08-27 23:15:59,575] log.py->debug():97 -- DEBUG -- Loading binary mesh C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/clothes/shoes01/shoes01.npz.
+[2023-08-27 23:15:59,575] log.py->debug():97 -- DEBUG -- NPZ-File: maxmimum number of faces for one vertex: 5
+[2023-08-27 23:15:59,606] log.py->debug():97 -- DEBUG -- Clothes library: updating face masks (face hiding enabled).
+[2023-08-27 23:15:59,622] log.py->debug():97 -- DEBUG -- 0 faces masked for female_elegantsuit01.obj
+[2023-08-27 23:15:59,622] log.py->debug():97 -- DEBUG -- Loaded 4136 deleted verts (4247 faces) from female_elegantsuit01 proxy.
+[2023-08-27 23:15:59,622] log.py->debug():97 -- DEBUG -- 0 faces masked for shoes01.obj
+[2023-08-27 23:15:59,622] log.py->debug():97 -- DEBUG -- Loaded 3206 deleted verts (3150 faces) from shoes01 proxy.
+[2023-08-27 23:15:59,622] log.py->debug():97 -- DEBUG -- 7085 faces masked for base.obj
+[2023-08-27 23:15:59,622] log.py->message():118 -- MESSAGE -- do Change clothes
+[2023-08-27 23:16:06,032] log.py->debug():97 -- DEBUG -- hiding category Geometries
+[2023-08-27 23:16:06,032] log.py->debug():97 -- DEBUG -- showing category Modelling
+[2023-08-27 23:16:06,032] log.py->debug():97 -- DEBUG -- hiding task Clothes
+[2023-08-27 23:16:06,032] log.py->debug():97 -- DEBUG -- showing task Macro modelling
+[2023-08-27 23:16:13,539] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:13,586] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:13,633] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:18,571] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:18,634] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:18,681] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:20,712] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:20,775] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:20,822] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:22,010] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:22,072] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:22,119] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:28,677] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:28,844] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:28,925] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:31,460] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,460] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,491] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,491] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,523] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,523] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,554] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,554] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,585] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,585] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,632] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,632] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,665] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,665] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,696] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,696] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,746] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,746] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,781] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,781] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,814] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,814] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,838] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,838] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,871] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,871] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:31,902] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:31,902] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,163] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,163] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,202] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,202] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,234] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,234] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,281] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,281] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,312] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,312] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,343] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,343] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,390] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,390] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,422] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,422] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,455] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,455] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,486] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,486] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,501] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,501] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,533] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,533] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:32,564] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:32,580] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,328] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,328] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,392] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,392] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,454] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,454] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,516] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,516] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,563] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,563] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,595] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,595] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,626] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,626] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,657] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,657] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,752] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,752] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,768] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,783] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,815] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,815] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:33,847] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:33,847] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:34,351] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:34,351] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:34,399] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:34,399] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:34,418] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:34,418] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:34,446] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:34,446] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:34,557] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:34,557] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:34,573] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:34,588] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:35,121] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:35,266] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:35,328] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:36,922] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:36,922] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:36,953] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:36,953] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:36,969] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:36,969] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,000] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,000] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,031] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,031] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,047] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,047] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,078] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,078] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,095] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,095] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,127] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,127] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,157] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,157] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,173] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,173] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,204] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,204] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,236] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,238] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,252] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,252] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,284] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,284] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,308] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,308] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,335] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,335] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,350] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,362] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,378] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,378] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,409] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,409] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,441] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,441] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:37,457] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:37,457] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:38,179] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:38,226] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:38,273] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:39,499] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,499] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,530] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,530] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,561] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,561] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,577] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,577] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,608] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,608] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,639] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,639] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,671] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,671] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,686] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,686] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,717] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,717] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,733] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,733] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,764] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,764] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,796] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,796] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,811] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,811] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,843] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,843] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,874] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,874] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,889] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,889] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,921] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,921] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,952] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,952] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,967] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,967] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:39,999] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:39,999] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:40,224] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:40,287] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:40,318] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:41,342] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,342] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,377] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,377] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,405] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,405] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,438] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,439] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,452] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,452] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,484] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,484] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,516] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,516] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,563] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,563] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,610] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:41,610] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:41,750] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:41,813] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:41,860] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:43,258] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:43,258] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:43,289] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:43,289] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:43,320] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:43,320] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:43,336] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:43,336] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:43,367] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:43,367] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:43,602] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:43,649] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:43,680] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:44,883] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:44,883] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:44,915] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:44,915] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:44,945] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:44,945] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:44,977] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:44,977] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:45,008] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:45,008] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:45,024] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:45,039] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:45,070] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:45,070] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:45,227] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:45,227] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:45,274] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:45,336] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:45,367] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:46,025] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,025] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,056] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,056] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,087] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,087] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,119] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,119] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,150] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,150] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,197] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,197] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,228] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,228] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,259] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:46,259] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:46,509] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:46,556] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:46,603] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:16:48,484] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,484] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,515] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,515] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,546] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,546] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,578] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,578] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,609] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,609] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,640] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,640] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,656] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,671] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,687] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,687] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,718] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,718] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,750] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,750] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,782] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,782] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:48,891] log.py->debug():97 -- DEBUG -- Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+[2023-08-27 23:16:48,891] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:16:49,095] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:16:49,142] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:16:49,189] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:17:08,777] log.py->debug():97 -- DEBUG -- hiding task Macro modelling
+[2023-08-27 23:17:08,777] log.py->debug():97 -- DEBUG -- showing task Gender
+[2023-08-27 23:17:14,542] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:17:14,588] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:17:14,620] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:17:21,965] log.py->debug():97 -- DEBUG -- hiding task Gender
+[2023-08-27 23:17:21,965] log.py->debug():97 -- DEBUG -- showing task Face
+[2023-08-27 23:17:35,074] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:17:35,121] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:17:35,168] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:17:42,111] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:17:42,174] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:17:42,206] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:17:49,226] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:17:49,291] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:17:49,320] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:17:52,246] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:17:52,305] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:17:52,341] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:17:53,961] log.py->debug():97 -- DEBUG -- hiding task Face
+[2023-08-27 23:17:53,961] log.py->debug():97 -- DEBUG -- showing task Torso
+[2023-08-27 23:17:55,819] log.py->debug():97 -- DEBUG -- hiding task Torso
+[2023-08-27 23:17:55,819] log.py->debug():97 -- DEBUG -- showing task Face
+[2023-08-27 23:17:56,462] log.py->debug():97 -- DEBUG -- hiding task Face
+[2023-08-27 23:17:56,462] log.py->debug():97 -- DEBUG -- showing task Torso
+[2023-08-27 23:18:07,812] log.py->debug():97 -- DEBUG -- Updating skeleton joint positions
+[2023-08-27 23:18:07,859] log.py->debug():97 -- DEBUG -- Done baking animations
+[2023-08-27 23:18:07,890] log.py->message():118 -- MESSAGE -- do Change modifier
+[2023-08-27 23:18:08,628] log.py->debug():97 -- DEBUG -- hiding task Torso
+[2023-08-27 23:18:08,628] log.py->debug():97 -- DEBUG -- showing task Arms and Legs
+[2023-08-27 23:18:13,957] log.py->debug():97 -- DEBUG -- hiding task Arms and Legs
+[2023-08-27 23:18:13,957] log.py->debug():97 -- DEBUG -- showing task Random
+[2023-08-27 23:18:15,239] log.py->debug():97 -- DEBUG -- hiding task Random
+[2023-08-27 23:18:15,239] log.py->debug():97 -- DEBUG -- showing task Custom
+[2023-08-27 23:18:16,176] log.py->debug():97 -- DEBUG -- hiding task Custom
+[2023-08-27 23:18:16,176] log.py->debug():97 -- DEBUG -- showing task Random
+[2023-08-27 23:18:18,588] log.py->debug():97 -- DEBUG -- hiding task Random
+[2023-08-27 23:18:18,588] log.py->debug():97 -- DEBUG -- showing task Custom
+[2023-08-27 23:18:19,827] log.py->debug():97 -- DEBUG -- hiding task Custom
+[2023-08-27 23:18:19,827] log.py->debug():97 -- DEBUG -- showing task Measure
+[2023-08-27 23:18:23,843] log.py->debug():97 -- DEBUG -- hiding category Modelling
+[2023-08-27 23:18:23,843] log.py->debug():97 -- DEBUG -- showing category Geometries
+[2023-08-27 23:18:23,843] log.py->debug():97 -- DEBUG -- hiding task Measure
+[2023-08-27 23:18:23,843] log.py->debug():97 -- DEBUG -- showing task Clothes
+[2023-08-27 23:18:24,959] log.py->debug():97 -- DEBUG -- hiding category Geometries
+[2023-08-27 23:18:24,959] log.py->debug():97 -- DEBUG -- showing category Materials
+[2023-08-27 23:18:24,959] log.py->debug():97 -- DEBUG -- hiding task Clothes
+[2023-08-27 23:18:24,959] log.py->debug():97 -- DEBUG -- showing task Material
+[2023-08-27 23:18:57,368] log.py->debug():97 -- DEBUG -- Loading material from file data/skins\middleage_asian_female\middleage_asian_female.mhmat
+[2023-08-27 23:18:57,383] log.py->message():118 -- MESSAGE -- do Change material of base.obj
+[2023-08-27 23:18:57,383] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/skins/textures/middleage_lightskinned_female_diffuse2.png.
+[2023-08-27 23:18:57,586] log.py->debug():97 -- DEBUG -- initTexture: 2048, 2048, False
+[2023-08-27 23:18:57,586] log.py->debug():97 -- DEBUG -- Creating new texture for image C:/Users/avams/AppData/Local/makehuman-community/makehuman/data/litspheres/lit_standard_skin.png.
+[2023-08-27 23:18:57,602] log.py->debug():97 -- DEBUG -- initTexture: 256, 256, False
+[2023-08-27 23:19:00,739] log.py->debug():97 -- DEBUG -- hiding category Materials
+[2023-08-27 23:19:00,739] log.py->debug():97 -- DEBUG -- showing category Pose/Animate
+[2023-08-27 23:19:00,739] log.py->debug():97 -- DEBUG -- hiding task Material
+[2023-08-27 23:19:00,739] log.py->debug():97 -- DEBUG -- showing task Skeleton
+[2023-08-27 23:19:00,739] log.py->debug():97 -- DEBUG -- Loading material from file data/materials/xray.mhmat
+[2023-08-27 23:19:03,758] log.py->debug():97 -- DEBUG -- Loading skeleton from data/rigs\cmu_mb.mhskel
+[2023-08-27 23:19:03,853] log.py->message():118 -- MESSAGE -- Skeleton CMU compliant skeleton has 8 weights per vertex.
+[2023-08-27 23:19:03,885] log.py->debug():97 -- DEBUG -- Calculated maximum number of faces for one vertex: 4
+[2023-08-27 23:19:03,888] log.py->debug():97 -- DEBUG -- Calculated maximum number of poles for one vertex: 4
+[2023-08-27 23:19:03,888] log.py->message():118 -- MESSAGE -- do Change skeleton
+[2023-08-27 23:19:04,894] log.py->debug():97 -- DEBUG -- Loading skeleton from data/rigs\default.mhskel
+[2023-08-27 23:19:05,003] log.py->debug():97 -- DEBUG -- Calculated maximum number of faces for one vertex: 4
+[2023-08-27 23:19:05,035] log.py->debug():97 -- DEBUG -- Calculated maximum number of poles for one vertex: 4
+[2023-08-27 23:19:05,035] log.py->message():118 -- MESSAGE -- do Change skeleton
+[2023-08-27 23:19:05,981] log.py->debug():97 -- DEBUG -- Loading skeleton from data/rigs\default_no_toes.mhskel
+[2023-08-27 23:19:06,090] log.py->message():118 -- MESSAGE -- Skeleton Default simplified has 8 weights per vertex.
+[2023-08-27 23:19:06,169] log.py->debug():97 -- DEBUG -- Calculated maximum number of faces for one vertex: 4
+[2023-08-27 23:19:06,201] log.py->debug():97 -- DEBUG -- Calculated maximum number of poles for one vertex: 4
+[2023-08-27 23:19:06,201] log.py->message():118 -- MESSAGE -- do Change skeleton
+[2023-08-27 23:19:07,034] log.py->debug():97 -- DEBUG -- Loading skeleton from data/rigs\game_engine.mhskel
+[2023-08-27 23:19:07,128] log.py->message():118 -- MESSAGE -- Skeleton Game_engine has 7 weights per vertex.
+[2023-08-27 23:19:07,128] log.py->warning():104 -- WARNING -- Bone Root has no resolved references ['Root'], cannot remap an orientation plane
+[2023-08-27 23:19:07,159] log.py->warning():104 -- WARNING -- No normal found for bone Root: no reference bones and could not map implicitly by name
+[2023-08-27 23:19:07,175] log.py->debug():97 -- DEBUG -- Calculated maximum number of faces for one vertex: 4
+[2023-08-27 23:19:07,175] log.py->debug():97 -- DEBUG -- Calculated maximum number of poles for one vertex: 4
+[2023-08-27 23:19:07,175] log.py->message():118 -- MESSAGE -- do Change skeleton
+[2023-08-27 23:19:08,564] log.py->debug():97 -- DEBUG -- Loading skeleton from None
+[2023-08-27 23:19:08,580] log.py->warning():104 -- WARNING -- Cannot remove bound mesh SkeletonMesh, no such mesh bound.
+[2023-08-27 23:19:08,580] log.py->message():118 -- MESSAGE -- do Clear skeleton
+[2023-08-27 23:19:11,359] log.py->debug():97 -- DEBUG -- hiding category Pose/Animate
+[2023-08-27 23:19:11,380] log.py->debug():97 -- DEBUG -- showing category Rendering
+[2023-08-27 23:19:11,380] log.py->debug():97 -- DEBUG -- hiding task Skeleton
+[2023-08-27 23:19:11,380] log.py->debug():97 -- DEBUG -- showing task Render
+[2023-08-27 23:19:14,933] log.py->debug():97 -- DEBUG -- hiding category Rendering
+[2023-08-27 23:19:14,948] log.py->debug():97 -- DEBUG -- showing category Settings
+[2023-08-27 23:19:14,948] log.py->debug():97 -- DEBUG -- hiding task Render
+[2023-08-27 23:19:14,948] log.py->debug():97 -- DEBUG -- showing task General
+[2023-08-27 23:19:16,020] log.py->debug():97 -- DEBUG -- hiding category Settings
+[2023-08-27 23:19:16,036] log.py->debug():97 -- DEBUG -- showing category Utilities
+[2023-08-27 23:19:16,036] log.py->debug():97 -- DEBUG -- hiding task General
+[2023-08-27 23:19:16,036] log.py->debug():97 -- DEBUG -- showing task Logs
+[2023-08-27 23:19:16,707] log.py->debug():97 -- DEBUG -- hiding category Utilities
+[2023-08-27 23:19:16,707] log.py->debug():97 -- DEBUG -- showing category Help
+[2023-08-27 23:19:16,707] log.py->debug():97 -- DEBUG -- hiding task Logs
+[2023-08-27 23:19:16,707] log.py->debug():97 -- DEBUG -- showing task Help
+[2023-08-27 23:19:17,506] log.py->debug():97 -- DEBUG -- hiding category Help
+[2023-08-27 23:19:17,506] log.py->debug():97 -- DEBUG -- showing category Community
+[2023-08-27 23:19:17,506] log.py->debug():97 -- DEBUG -- hiding task Help
+[2023-08-27 23:19:17,506] log.py->debug():97 -- DEBUG -- showing task Download assets
+[2023-08-27 23:19:20,597] log.py->debug():97 -- DEBUG -- hiding category Community
+[2023-08-27 23:19:20,597] log.py->debug():97 -- DEBUG -- showing category Geometries
+[2023-08-27 23:19:20,597] log.py->debug():97 -- DEBUG -- hiding task Download assets
+[2023-08-27 23:19:20,597] log.py->debug():97 -- DEBUG -- showing task Clothes
+[2023-08-27 23:19:22,663] log.py->debug():97 -- DEBUG -- hiding category Geometries
+[2023-08-27 23:19:22,663] log.py->debug():97 -- DEBUG -- showing category Materials
+[2023-08-27 23:19:22,663] log.py->debug():97 -- DEBUG -- hiding task Clothes
+[2023-08-27 23:19:22,663] log.py->debug():97 -- DEBUG -- showing task Material
+[2023-08-27 23:19:25,731] log.py->debug():97 -- DEBUG -- hiding category Materials
+[2023-08-27 23:19:25,731] log.py->debug():97 -- DEBUG -- showing category Geometries
+[2023-08-27 23:19:25,731] log.py->debug():97 -- DEBUG -- hiding task Material
+[2023-08-27 23:19:25,731] log.py->debug():97 -- DEBUG -- showing task Clothes
+[2023-08-27 23:19:29,090] log.py->debug():97 -- DEBUG -- hiding category Geometries
+[2023-08-27 23:19:29,090] log.py->debug():97 -- DEBUG -- showing category Modelling
+[2023-08-27 23:19:29,090] log.py->debug():97 -- DEBUG -- hiding task Clothes
+[2023-08-27 23:19:29,090] log.py->debug():97 -- DEBUG -- showing task Measure
+[2023-08-27 23:19:30,234] log.py->debug():97 -- DEBUG -- hiding category Modelling
+[2023-08-27 23:19:30,234] log.py->debug():97 -- DEBUG -- showing category Files
+[2023-08-27 23:19:30,234] log.py->debug():97 -- DEBUG -- hiding task Measure
+[2023-08-27 23:19:30,234] log.py->debug():97 -- DEBUG -- showing task Load
+[2023-08-27 23:19:31,309] log.py->debug():97 -- DEBUG -- hiding category Files
+[2023-08-27 23:19:31,309] log.py->debug():97 -- DEBUG -- showing category Materials
+[2023-08-27 23:19:31,309] log.py->debug():97 -- DEBUG -- hiding task Load
+[2023-08-27 23:19:31,309] log.py->debug():97 -- DEBUG -- showing task Material
+[2023-08-27 23:19:32,248] log.py->debug():97 -- DEBUG -- hiding category Materials
+[2023-08-27 23:19:32,248] log.py->debug():97 -- DEBUG -- showing category Geometries
+[2023-08-27 23:19:32,248] log.py->debug():97 -- DEBUG -- hiding task Material
+[2023-08-27 23:19:32,248] log.py->debug():97 -- DEBUG -- showing task Clothes
+[2023-08-27 23:19:33,165] log.py->debug():97 -- DEBUG -- hiding category Geometries
+[2023-08-27 23:19:33,165] log.py->debug():97 -- DEBUG -- showing category Materials
+[2023-08-27 23:19:33,165] log.py->debug():97 -- DEBUG -- hiding task Clothes
+[2023-08-27 23:19:33,165] log.py->debug():97 -- DEBUG -- showing task Material
+[2023-08-27 23:22:25,598] log.py->debug():97 -- DEBUG -- hiding category Materials
+[2023-08-27 23:22:25,598] log.py->debug():97 -- DEBUG -- showing category Pose/Animate
+[2023-08-27 23:22:25,598] log.py->debug():97 -- DEBUG -- hiding task Material
+[2023-08-27 23:22:25,598] log.py->debug():97 -- DEBUG -- showing task Skeleton
+[2023-08-27 23:22:26,746] log.py->debug():97 -- DEBUG -- hiding category Pose/Animate
+[2023-08-27 23:22:26,761] log.py->debug():97 -- DEBUG -- showing category Rendering
+[2023-08-27 23:22:26,761] log.py->debug():97 -- DEBUG -- hiding task Skeleton
+[2023-08-27 23:22:26,761] log.py->debug():97 -- DEBUG -- showing task Render
+[2023-08-27 23:22:27,721] log.py->debug():97 -- DEBUG -- hiding category Rendering
+[2023-08-27 23:22:27,721] log.py->debug():97 -- DEBUG -- showing category Pose/Animate
+[2023-08-27 23:22:27,721] log.py->debug():97 -- DEBUG -- hiding task Render
+[2023-08-27 23:22:27,721] log.py->debug():97 -- DEBUG -- showing task Skeleton
+[2023-08-27 23:22:28,790] log.py->debug():97 -- DEBUG -- hiding category Pose/Animate
+[2023-08-27 23:22:28,807] log.py->debug():97 -- DEBUG -- showing category Materials
+[2023-08-27 23:22:28,807] log.py->debug():97 -- DEBUG -- hiding task Skeleton
+[2023-08-27 23:22:28,807] log.py->debug():97 -- DEBUG -- showing task Material
+[2023-08-27 23:22:39,570] log.py->debug():97 -- DEBUG -- hiding category Materials
+[2023-08-27 23:22:39,586] log.py->debug():97 -- DEBUG -- showing category Rendering
+[2023-08-27 23:22:39,586] log.py->debug():97 -- DEBUG -- hiding task Material
+[2023-08-27 23:22:39,586] log.py->debug():97 -- DEBUG -- showing task Render
+[2023-08-28 06:02:50,006] log.py->debug():97 -- DEBUG -- hiding category Rendering
+[2023-08-28 06:02:50,053] log.py->debug():97 -- DEBUG -- showing category Modelling
+[2023-08-28 06:02:50,053] log.py->debug():97 -- DEBUG -- hiding task Render
+[2023-08-28 06:02:50,053] log.py->debug():97 -- DEBUG -- showing task Measure
+[2023-08-28 06:02:50,905] log.py->debug():97 -- DEBUG -- hiding category Modelling
+[2023-08-28 06:02:50,915] log.py->debug():97 -- DEBUG -- showing category Geometries
+[2023-08-28 06:02:50,915] log.py->debug():97 -- DEBUG -- hiding task Measure
+[2023-08-28 06:02:50,915] log.py->debug():97 -- DEBUG -- showing task Clothes
+[2023-08-28 06:02:51,662] log.py->debug():97 -- DEBUG -- hiding category Geometries
+[2023-08-28 06:02:51,666] log.py->debug():97 -- DEBUG -- showing category Materials
+[2023-08-28 06:02:51,666] log.py->debug():97 -- DEBUG -- hiding task Clothes
+[2023-08-28 06:02:51,666] log.py->debug():97 -- DEBUG -- showing task Material
+[2023-08-28 06:02:52,459] log.py->debug():97 -- DEBUG -- hiding category Materials
+[2023-08-28 06:02:52,459] log.py->debug():97 -- DEBUG -- showing category Pose/Animate
+[2023-08-28 06:02:52,459] log.py->debug():97 -- DEBUG -- hiding task Material
+[2023-08-28 06:02:52,459] log.py->debug():97 -- DEBUG -- showing task Skeleton
+[2023-08-28 06:02:53,331] log.py->debug():97 -- DEBUG -- hiding category Pose/Animate
+[2023-08-28 06:02:53,340] log.py->debug():97 -- DEBUG -- showing category Rendering
+[2023-08-28 06:02:53,340] log.py->debug():97 -- DEBUG -- hiding task Skeleton
+[2023-08-28 06:02:53,340] log.py->debug():97 -- DEBUG -- showing task Render
+[2023-08-28 06:25:56,141] qtui.py->stop():736 -- NOTICE -- ABOUT TO STOP APPLICATION
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 0_modeling_0_modifiers
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 0_modeling_0_modifiers
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 0_modeling_8_random
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 0_modeling_8_random
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 0_modeling_9_custom_targets
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 0_modeling_9_custom_targets
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 0_modeling_a_measurement
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 0_modeling_a_measurement
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 0_modeling_background
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 0_modeling_background
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 1_convert_model_tags
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 1_convert_model_tags
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 1_mhapi
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 1_mhapi
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 2_foot_posing
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 2_foot_posing
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 2_posing_expression
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloaded plugin 2_posing_expression
+[2023-08-28 06:25:56,163] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_clothes_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_clothes_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_eye_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_eye_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_eyebrows
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_eyebrows
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_eyelashes
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_eyelashes
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_material_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_material_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_polygon_hair_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_polygon_hair_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_pose
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_pose
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_proxy_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_proxy_chooser
+[2023-08-28 06:25:56,172] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_skeleton
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_skeleton
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_teeth
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_teeth
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 3_libraries_tongue
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 3_libraries_tongue
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 4_rendering_9_viewer
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 4_rendering_9_viewer
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 4_rendering_opengl
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 4_rendering_opengl
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 4_rendering_scene
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 4_rendering_scene
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 5_settings_0_settings
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 5_settings_0_settings
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 5_settings_mouse
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 5_settings_mouse
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 5_settings_shortcuts
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 5_settings_shortcuts
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 5_settings_userplugins
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 5_settings_userplugins
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 6_help
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 6_help
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 7_expression_mixer
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 7_expression_mixer
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 7_logging
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 7_logging
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 8_asset_downloader
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloaded plugin 8_asset_downloader
+[2023-08-28 06:25:56,181] log.py->message():118 -- MESSAGE -- Unloading plugin 8_server_socket
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 8_server_socket
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_bvh
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_bvh
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_collada
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_collada
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_fbx
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_fbx
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_light
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_light
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_mhx2
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_mhx2
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_obj
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_obj
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_ogre
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_ogre
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_stl
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_stl
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_export_uvmap
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_export_uvmap
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloading plugin 9_massproduce
+[2023-08-28 06:25:56,188] log.py->message():118 -- MESSAGE -- Unloaded plugin 9_massproduce
